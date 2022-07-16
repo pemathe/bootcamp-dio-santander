@@ -1,3 +1,3 @@
 # bootcamp dio santander
 
-## Aqui ira ficar meus projetos desenvolvidos durante meu percurso no botcamp.
+## Aqui ira ficar os projetos desenvolvidos durante meu percurso no botcamp.
